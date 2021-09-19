@@ -12,6 +12,7 @@ Hi, I'm Elena Frolova, I am a front-end developer, with a great desire to achiev
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/nuxt/nuxt.js/dev/.github/logo.svg"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/fcc248013c14e911240315b4501ea2164ece6a54be7b8b55ca949548e3b6e69c/68747470733a2f2f6769742e63706d7379732e64652f6e706d2f767565782d74797065736166652d636c6173732f7261772f6d61737465722f6c6f676f2e737667"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
