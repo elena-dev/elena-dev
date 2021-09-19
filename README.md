@@ -18,6 +18,7 @@ Hi, I'm Elena Frolova, I am a front-end developer, with a great desire to achiev
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180428/hdw/kisspng-web-development-cascading-style-sheets-css3-html-5ae480842a86a5.9529807215249245481742.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 
 
